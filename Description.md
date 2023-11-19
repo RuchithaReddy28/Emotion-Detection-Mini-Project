@@ -1,4 +1,4 @@
-# Introduction
+# INTRODUCTION
 An significant part of a person's body is their face, which is particularly useful for interpreting
 their behaviour and emotional condition. Without realising it, we categorise emotions
 frequently. Without uttering a word, the human face is capable of expressing a wide range of
@@ -32,3 +32,34 @@ applications across perceptual and cognitive sciences, it is only natural that f
 research which had grabbed a lot of attention during the past decade..
 With the fast advancement of Artificial Intelligent (AI) capabilities, interest in automated Facial
 Emotion Recognition (FER) has indeed been rising recently.
+
+## PROBLEM STATEMENT
+In the evolving landscape of human-computer interaction, understanding and 
+responding to human emotions play a crucial role in creating more intuitive and empathetic 
+systems. Emotion detection technology aims to enhance user experiences by enabling machines 
+to recognize and respond to the emotional states of users. However, there are several challenges 
+that need to be addressed to achieve accurate and reliable emotion detection.
+This field of face recognition deals with tactics and approaches for reading facial expressions
+for emotions. The identification of emotions has become simpler because to several technical
+advancements in the area of artificial intelligency and machine learnings. Expressions are
+anticipated to become the next communication tool for computers. Automated facial analysis of 
+emotions is becoming increasingly necessary. The majority of the studies in this field focuses 
+on extracting emotional responses from movies or audio data. The majority of these studies work 
+matches and recognises faces, however deep convolutional neural networks havenot been 
+utilised to extract emotions from photos. 
+Facial Emotion Recognition is a field of study that seeks to extract an emotion from a person's
+facial expression. According to the polls, improvements in emotion detection have simplified
+complicated systems. There are several uses for FER, which will be covered later. The difficult
+problem of emotion recognition arises from the fact that emotions might differ based on the
+situation, one's appearance, culture, and facial expression, which produces confusing data.
+Understanding facial expression recognition is greatly aided by a survey on the subject.
+Approach can be said as a machine learning that uses data models created specifically to do a
+certain task. In the fields of image identification, classification, selection, pattern matching, etc.,
+deep learning in neural network models has many applications. For selecting features,
+picture recognition, and other deep learning applications, multi - modal deep learning is
+utilised.
+## SAMPLE IMAGES
+![2](https://github.com/RuchithaReddy28/Emotion-Detection-Mini-Project/assets/93427261/720357b1-32b2-4bf2-8741-b3b18f66b484)
+![1](https://github.com/RuchithaReddy28/Emotion-Detection-Mini-Project/assets/93427261/ea931f27-c106-4eff-868e-f8c777e5e40e)
+
+
