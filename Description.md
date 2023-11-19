@@ -791,6 +791,149 @@ categorical = np.zeros((num_samples, num_classes))
 categorical[np.arange(num_samples), integer_classes] = 1
 return categorica
 ```
+# RESULTS
+## Performance of Mini-Xception model
+![O](https://github.com/RuchithaReddy28/Emotion-Detection-Mini-Project/assets/93427261/a2b5d5bb-9009-4553-8482-3c08c97d66cf)
+Here confusion matrix was used to determine precision. The crucial performance parameters,
+including accuracy, are looked at for measurable compared with experimental outcomes . These 
+variable we be utilise to accomplish the false negative variable used are True Negative, True
+Positive, False Negative, & False Positive.
+It performed with a 95 % accuracy on test set.Its accuracy was 96.2 %, often on the test set.
+The experiment looked into how much sadness there has been in different films. Recognizing
+sadness in movies is only a small component of the whole diagnostic process for depression.
+Even youngsters who are not really sad right now might develop the condition during the next
+several decades.
+Therefore, it is important to always keep a tight eye on every one of their extracurriculars. As
+a output the video of the very same student shot at other timepoints may be taken into account
+in additional investigation. The examination and evaluation of the participant's past and current 
+mental health condition, and also the process for determining the degree of depression, may
+benefit from it.
+## CONCLUSION
+Face expression identification system findings from this work endeavor is underpinned by a
+reliable face detection and identification model that maps behavioral factors with physiologic
+biometrics. Simple geometric elements that have been rebuilt as the identifying system's basic
+matching templates are connected to physiological features of the human face with regard to a
+variety of expressions including pleasure, sorrow, panic, fury, wonder, and contempt.
+From among several emotions expressed we tried to identify from it those for anger, disgust,
+anxiety, pleasure, sadness, amaze, and neutral. To deliver the final framework for emotions
+detection, several new research have leveraged deep learning model. Even though it might be
+challenging, there seems to be a lot to improve when it comes to emotion detection. Existence
+of "joy," "neutral," and "anxiety," negative emotions as well as "disgust," "neutral," and "joy,"
+positive emotions, was found and studied in depression videos. Facial characteristics were
+recognized that used the Cascade classification and small xception classifier using different
+training and testing sets. Every video's have positive & negative emotions including its
+classification as belonging to the "High Depression," "Moderate Depression," or "Low
+Depression" categories were examined. The results were accurately anticipated by the
+classification.
+The classifier predictions will be even more precise if there are enough training samples. The
+training videos were recorded in over a thousand frames, but only the first few were used in the 
+assessment. By identifying the video's important frames and extracting them only with the use 
+of a key frame extraction method for following work, this procedure can be performed for the 
+full video. The current research is limited to the student's most recent video . However, for a
+more accurate detection of depression, the student's past should be taken into account.
+
+## FUTURE SCOPE AND APPLICATIONS
+Understanding that there can be no specific formula to developing a neural network .
+Will provide my maximum efforts. Different tasks will require network topologies aswellas
+a lot of trial - and - error to attain the requisite prediction performance.
+And because of this Neural networks are sometimes described as "black-box
+algorithm" by individuals.
+The project's precision were closer to 71 percent, which isn't really poor at all comparing to
+other works modelled antecedents. There must be, though, a couple ofareas which we might
+improve
+● Number and design of convolutional layers
+● The number and configuration of thick layer
+● drop - out rates
+## Applications:
+### Analysis of Emotion for campaign testing:
+Applying sentiment analytics technologies, it's really feasible to evaluate marketing initiatives
+from anywhere from global to local. It ensures that it will be eliciting the desired responses once 
+they are introduced to the world. Marketers can identify whether the ads are evoking strong user
+engagement and optimistic emotional states using detection and identification software like 
+Deep Sight, that also gives marketers the techniques to conduct large-scale experiments on 
+various pre defined target demographics to choose the marketing campaign which will have the
+greatest influence.
+### Emotion analysis for online education:
+It is excellent to examine the eLearning trip and make essential improvements using
+anonymized emotions recognition for virtual classrooms. Emotional comments from pupils as
+they progress throughout every modules in real - time basis may be used to evaluate a college's
+lecture notes, instructional approaches, architecture, and design. Find spots of attraction or 
+courses tripping blocks and make improvements using genuine face expressions & employee
+engagement.
+### Emotion recognition in health care:
+Healthcare system is one sector that is benefiting from this innovation, with Intelligence face
+recognition software determining when patients require therapy, analyze overall emotional
+attachment in clinical studies, or assist doctors in choosing the patient satisfaction treatment
+strategy.
+### Emotion analysis in video game testing:
+In order to elicit a certain behavior and mix of feelings out from players, videos games are
+developed with such a specified customer in mind. Participants are required to play those
+games for a predetermined amount of time during the evaluation process, and all comments
+are taken into account when creating the finaloutput. Real-time facial expression detection can 
+help identify the feelings that a person is feeling. It is a fantastic supplement for feedback
+provided since it offers a more in-depth analysis of the gameplay experience.
+### Automotive industry and emotion analysis:
+Since car makers all over the world concentrating on producing products more individualized
+and secure for people to drive, the automotive sector is also utilizing emotions identification
+system. It seems logical that automakers utilize AI to aid them in comprehending human feelings 
+as they strive to design smart vehicle functions. Self - driving cars that use face expression 
+recognition can warn the driver if they arefeeling sleepy, reducing the number of fatal crashes.
+
+## REFERENCE
+[1].B. Abdellaoui, A. MOUMEN, Y. EL BOUZEKRI EL IDRISSI and A. Remaida, "Face 
+Detection to RecognizeStudents’ Emotion and Their Engagement: A Systematic Review," 2020 
+IEEE 2nd International Conference on Electronics, Control, Optimization and Computer 
+Science (ICECOCS), Kenitra, Morocco, 2020, pp. 1-6, doi:10.1109/ICECOCS50124.2020.9314600.
+
+[2]. Hussain, Shaik Asif; Salim Abdallah Al Balushi, Ahlam (2020). A íeal time face emotion
+classification and íecognition using deep leaíning model. Jouínal of Physics: Confeíence Seíies,
+1432(), 012087–. doi:10.1088/1742-6596/1432/1/012087
+
+[3]. K. M. Rajesh and M. Naveenkumar, "A robust method for face recognition and face emotion
+detection system using support vector machines," 2016 International Conference on Electrical,
+Electronics, Communication, Computer and Optimization Techniques (ICEECCOT), Mysuru, 
+India, 2016,pp. 1-5, doi: 10.1109/ICEECCOT.2016.7955175.
+
+[4].Stöckli, S., Schulte-Mecklenbeck, M., Borer, S. et al. Facial expression analysis with 
+AFFDEX and FACET: A validation study. Behav Res 50, 1446–1460 (2018).
+https://doi.org/10.3758/s13428- 0170996-1.
+
+[5]. McClure, Erin B.; Pope, Kayla; Hoberman, Andrea J.; Pine, Daniel S.; Leibenluft, Ellen 
+(2003). Facial Expression Recognition in Adolescents With Mood and Anxiety Disorders. 
+American Journal of Psychiatry, 160(6), 1172–1174. doi:10.1176/appi.ajp.160.6.1172.
+
+[6]. Wang, Yingying; Li, Yibin; Song, Yong; Rong, Xuewen (2020). The Influence of the 
+Activation Function in a Convolution Neural Network Model of Facial Expression Recognition. 
+Applied Sciences,10(5), 1897–. doi:10.3390/app10051897.
+
+[7]. Suslow, T., Junghanns, K., & Arolt, V. (2001). Detection of Facial Expressions of Emotions 
+in Depression. Perceptual and Motor Skills, 92(3), 857-868.
+https://doi.org/10.2466/pms.2001.92.3.857
+
+[8]. Khan, Amjad Rehman. 2022. "Facial Emotion Recognition Using Conventional Machine 
+Learning and Deep Learning Methods: Current Achievements, Analysis and Remaining 
+Challenges" Information 13, no.6: 268. https://doi.org/10.3390/info13060268
+
+[9]. Pise, A., Vadapalli, H. & Sanders, I. Facial emotion recognition using temporal relational 
+network: an application to E-learning. Multimed Tools Appl 81, 26633–26653 (2022).
+https://doi.org/10.1007/s11042-020-10133-y
+
+[10]. Ahmad, M. et al. (2021). Facial Expression Recognition using Lightweight Deep Learning
+Modeling. Mathematical Biosciences and Engineering, 20(5), 8208-8225. doi:10.1000/123456
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
