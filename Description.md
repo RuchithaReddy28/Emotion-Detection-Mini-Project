@@ -60,6 +60,5 @@ picture recognition, and other deep learning applications, multi - modal deep le
 utilised.
 ## SAMPLE IMAGES
 ![2](https://github.com/RuchithaReddy28/Emotion-Detection-Mini-Project/assets/93427261/720357b1-32b2-4bf2-8741-b3b18f66b484)
-![1](https://github.com/RuchithaReddy28/Emotion-Detection-Mini-Project/assets/93427261/ea931f27-c106-4eff-868e-f8c777e5e40e)
-
+![3](https://github.com/RuchithaReddy28/Emotion-Detection-Mini-Project/assets/93427261/b5f39f22-fc98-4ea1-8372-a694677756c1)
 
