@@ -1,4 +1,5 @@
-# INTRODUCTION
+# EMOTION DETECTION USING MACHINE LEARNING TECHNIQUES
+## INTRODUCTION
 An significant part of a person's body is their face, which is particularly useful for interpreting
 their behaviour and emotional condition. Without realising it, we categorise emotions
 frequently. Without uttering a word, the human face is capable of expressing a wide range of
@@ -791,6 +792,13 @@ categorical = np.zeros((num_samples, num_classes))
 categorical[np.arange(num_samples), integer_classes] = 1
 return categorica
 ```
+# OUTPUT
+![Screenshot (283)](https://github.com/RuchithaReddy28/Emotion-Detection-Mini-Project/assets/93427261/c24b3360-fc67-42e9-9d5a-00e3085c258b)
+![Screenshot (282)](https://github.com/RuchithaReddy28/Emotion-Detection-Mini-Project/assets/93427261/a8ec9038-e2d0-4027-8bf0-7aa18966b14c)
+![Screenshot (285)](https://github.com/RuchithaReddy28/Emotion-Detection-Mini-Project/assets/93427261/38f30d2a-a984-4e4b-81eb-33bfb42a9991)
+
+
+
 # RESULTS
 ## Performance of Mini-Xception model
 ![O](https://github.com/RuchithaReddy28/Emotion-Detection-Mini-Project/assets/93427261/a2b5d5bb-9009-4553-8482-3c08c97d66cf)
@@ -841,8 +849,11 @@ algorithm" by individuals.
 The project's precision were closer to 71 percent, which isn't really poor at all comparing to
 other works modelled antecedents. There must be, though, a couple ofareas which we might
 improve
+
 ● Number and design of convolutional layers
+
 ● The number and configuration of thick layer
+
 ● drop - out rates
 ## Applications:
 ### Analysis of Emotion for campaign testing:
